@@ -9,6 +9,7 @@ seachstr3 = 'apple supplier labor'
 
 companyList = ['apple', 'nike', 'lenovo', 'deere', 'amazon']
 keyword = ['sustainability','supplier','supplier labor','supplier portal','procurement','supplier code of conduct','vendor portal']
+date = '2012..2014'
 
 urlextract = ox.Workbook()
 sheet = urlextract.create_sheet(0,'sheet1')
@@ -19,7 +20,7 @@ file=open('result.txt','w')
 Row = 1
 for company in companyList:
     for key in keyword:
-        searchstr = company+ ' ' + key
+        searchstr = company+ ' ' + key + ' ' + date
         for x in xrange(2):
             print "page:%s"%(x+1)
             page = x*10 #page = x
