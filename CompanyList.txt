@@ -1,0 +1,1246 @@
+1@3D Systems Corp@DDD@DDD US Equity
+2@3M@MMM@MMM US Equity
+3@A.O. Smith Corp.@AOS@AOS US Equity
+4@Aarons Inc@AAN@AAN US Equity
+5@Abbott Laboratories@ABT@ABT US Equity
+6@ABBVIE Inc@ABBV@ABBV US Equity
+7@Abercombie & Fitch@ANF@ANF US Equity
+8@AboveNet Inc.@ABVT@ABVT US Equity
+9@Accenture Ltd@ACN@ACN US Equity
+10@Access Industries Holdings Inc.@N/A@382735Z US Equity
+11@ACE Limited@ACE@ACE US Equity
+12@ACI Worldwide Inc.@ACIW@ACIW US Equity
+13@Acorda Therapeutics@ACOR@ACOR US Equity
+14@Actavis Inc.@ACT@ACT US Equity
+15@Activision Inc.@ATVI@ATVI US Equity
+16@Actuant Corp.@ATU@ATU US Equity
+17@Acuity Brands Inc.@AYI@AYI US Equity
+18@Acxiom Corp.@ACXM@ACXM US Equity
+19@Adidas@ADDYY@ADDYY US Equity
+20@Adobe Systems Inc@ADBE@ADBE US Equity
+21@Adtran Inc.@ADTN@ADTN US Equity
+22@Advance Auto Parts Inc.@AAP@AAP US Equity
+23@Advanced Micro Devices@AMD@AMD US Equity
+24@Advent Software Inc.@ADVS@ADVS US Equity
+25@AECOM Technology Corporation@ACM@ACM US Equity
+26@Aegon@AEG@AEG US Equity
+27@Aeropostale Inc.@ARO@ARO US Equity
+28@Aetna Inc.@AET@AET US Equity
+29@AFC Enterprises Inc.@AFCE@AFCE US Equity
+30@Affiliated Managers Group@AMG@AMG US Equity
+31@AFLAC Inc.@AFL@AFL US Equity
+32@AGCO Corp@AGCO@AGCO US Equity
+33@Agilent Technologies Inc.@A@A US Equity
+34@Air Products & Chemicals Inc.@APD@APD US Equity
+35@Airgas Inc.@ARG@ARG US Equity
+36@Akamai Technologies Inc.@AKAM@AKAM US Equity
+37@Alaska Air Group Inc.@ALK@ALK US Equity
+38@Albemarle Corp.@ALB@ALB US Equity
+39@Alcoa Inc@AA@AA US Equity
+40@Alexanders Inc.@ALX@ALX US Equity
+41@Alexandria RE Equities@ARE@ARE US Equity
+42@Alexion Pharmaceuticals Inc@ALXN@ALXN US Equity
+43@Align Technology Inc.@ALGN@ALGN US Equity
+44@Alleghany Corp.@Y@Y US Equity
+45@Allergan Inc.@AGN@AGN US Equity
+46@ALLETE Inc.@ALE@ALE US Equity
+47@Alliance Data Systems@ADS@ADS US Equity
+48@Alliant Techsystems Inc.@ATK@ATK US Equity
+49@Allianz @AZSEY@AZSEY US Equity
+50@Allison Transmission Hldgs Inc@ALSN@ALSN US Equity
+51@Allstate Corp.@ALL@ALL US Equity
+52@Altera Corp.@ALTR@ALTR US Equity
+53@Altria Group Inc@MO@MO US Equity
+54@Amazon@AMZN@AMZN US Equity
+55@Ambassadors Group Inc.@EPAX@EPAX US Equity
+56@AMC Networks Inc.@AMCX@AMCX US Equity
+57@Amdocs Limited@DOX@DOX US Equity
+58@Amedisys Inc.@AMED@AMED US Equity
+59@Amerco@UHAL@UHAL US Equity
+60@Ameren Corp.@AEE@AEE US Equity
+61@American Axle & Manufacturing Holdings Inc.@AXL@AXL US Equity
+62@American Campus Communities@ACC@ACC US Equity
+63@American Capital Strategic@ACAS@ACAS US Equity
+64@American Eagle@AEO@AEO US Equity
+65@American Electric Power@AEP@AEP US Equity
+66@American Express @AXP@AXP US Equity
+67@American International Group @AIG@AIG US Equity
+68@American Science & Engineering Inc.@ASEI@ASEI US Equity
+69@American Tower Corp.@AMT@AMT US Equity
+70@American Water Works Company@AWK@AWK US Equity
+71@Americas Car-Mart Inc.@CRMT@CRMT US Equity
+72@AmeriGas Partners L.P.@APU@APU US Equity
+73@Ameriprise Financial@AMP@AMP US Equity
+74@AmerisourceBergen @ABC@ABC US Equity
+75@Ametek Inc.@AME@AME US Equity
+76@Amgen Inc.@AMGN@AMGN US Equity
+77@Amphenol Corp.@APH@APH US Equity
+78@AMR@AMR@AAMRQ US Equity
+79@Anadarko Petroleum Corp.@APC@APC US Equity
+80@Analog Devices Inc.@ADI@ADI US Equity
+81@Ancestry.com Inc.@ACOM@ACOM US Equity
+82@Anheuser Bush@BUD@BUD US Equity
+83@Anixter International Inc.@AXE@AXE US Equity
+84@Annies Inc.@BNNY@BNNY US Equity
+85@AnnTaylor Stores Corp.@ANN@ANN US Equity
+86@Ansys Inc.@ANSS@ANSS US Equity
+87@AOL Inc@AOL@AOL US Equity
+88@Aon Corp.@AOC@AON US Equity
+89@Apollo Group Inc.@APOL@APOL US Equity
+90@Apollo Investment@AINV@AINV US Equity
+91@Apple@AAPL@AAPL US Equity
+92@Applied Industrial Technology@AIT@AIT US Equity
+93@Applied Materials Inc.@AMAT@AMAT US Equity
+94@AptarGroup Inc.@ATR@ATR US Equity
+95@ArcelorMittal @MT@MT US Equity
+96@Arch Capital Group Ltd.@ACGL@ACGL US Equity
+97@Archer Daniel Midlands Company@ADM@ADM US Equity
+98@Ariad Pharmaceuticals Inc.@ARIA@ARIA US Equity
+99@Ariba Inc.@ARBA@ARBA US Equity
+100@Arris Group Inc.@ARRS@ARRS US Equity
+101@Arrow Electronics Inc.@ARW@ARW US Equity
+102@Arthur J. Gallagher & Co.@AJG@AJG US Equity
+103@Ascena Retail Group Inc@ASNA@ASNA US Equity
+104@Ashland Inc.@ASH@ASH US Equity
+105@Asics@#N/A@7936 JP Equity
+106@Assicurazioni Generali @#N/A@ASG GR Equity
+107@Astellas Pharma Inc.@ALPMY@ALPMY US Equity
+108@Astrazeneca@AZN@AZN US Equity
+109@AT&T Corp.@T@T  US Equity
+110@Atheros Communications@ATHR@ATHR US Equity
+111@Atmel Corp.@ATML@ATML US Equity
+112@Australia and New Zealand Banking Group@ANZBY@ANZBY US Equity
+113@Autodesk Inc.@ADSK@ADSK US Equity
+114@Autoliv Inc.@ALV@ALV US Equity
+115@Automatic Data Processing@ADP@ADP US Equity
+116@AutoNation Inc@AN@AN US Equity
+117@AutoZone Inc.@AZO@AZO US Equity
+118@Avago Technologies Ltd.@AVGO@AVGO US Equity
+119@AvalonBay Communities@AVB@AVB US Equity
+120@Avery Dennison Corp.@AVY@AVY US Equity
+121@Avista Capital Partners@N/A@663119Z US Equity
+122@Avista Corp.@AVA@AVA US Equity
+123@Aviva @AV@AV US Equity
+124@Avon Products Inc.@AVP@AVP US Equity
+125@AVX Corp.@AVX@AVX US Equity
+126@AXA @AXA@AXAHY US Equity
+127@Bain Capital Partners LLC@N/A@6821Z US Equity
+128@Baker Hughes@BHI@BHI US Equity
+129@Ball Corp.@BLL@BLL US Equity
+130@Bally Technologies Inc.@BYI@BYI US Equity
+131@Bank of America Corp. @BAC@BAC US Equity
+132@Bank of New York Co.@BK@BK US Equity
+133@Barclays @BCS@BCS US Equity
+134@BASF @BASFY@BASFY US Equity
+135@Baxter International Inc.@BAX@BAX US Equity
+136@BB&T Corp.@BBT@BBT US Equity
+137@Beam Inc@BEAM@BEAM US Equity
+138@Beckman Coulter Inc.@BEC@BEC US Equity
+139@Becton Dickinson and Co@BDX@BDX US Equity
+140@Bed Bath and Beyond@BBBY@BBBY US Equity
+141@Bemis Company Inc.@BMS@BMS US Equity
+142@Benchmark Electronics@BHE@BHE US Equity
+143@Berkley (W.R.)@WRB@WRB US Equity
+144@Berkshire Hathaway Inc.@BRK/A@BRK/A US Equity
+145@Best Buy Co. Inc.@BBY@BBY US Equity
+146@Biogen @BIIB@BIIB US Equity
+147@Bio-Rad Laboratories Inc.@BIO@BIO US Equity
+148@BJ Services@BJS@BJS US Equity
+149@BJs Restaurants@BJRI@BJRI US Equity
+150@BJs Wholesale Club Inc.@BJ@BJ US Equity
+151@Black & Decker Corp.@BDK@BDK US Equity
+152@Black Hills Corp.@BKH@BKH US Equity
+153@Blackbaud Inc@BLKB@BLKB US Equity
+154@BlackRock Inc.@BLK@BLK US Equity
+155@Blackstone Group LP@BX@BX US Equity
+156@BMC SOFTWARE INC@BMC@BMC US Equity
+157@BMW @BMW@BMW GY Equity
+158@BNP Paribas @BNPQY@BNPQY US Equity
+159@Boardwalk Pipeline Partners LP@BWP@BWP US Equity
+160@Bob Evans Farms Inc.@BOBE@BOBE US Equity
+161@Boeing @BA@BA US Equity
+162@BOK Financial Corp.@BOKF@BOKF US Equity
+163@Booz Allen Hamilton@BAH@BAH US Equity
+164@BorgWarner Inc.@BWA@BWA US Equity
+165@Boston Beer @SAM@SAM US Equity
+166@Boston Properties Inc.@BXP@BXP US Equity
+167@Boston Scientific Corp.@BSX@BSX US Equity
+168@BRE Properties Inc.@BRE@BRE US Equity
+169@Bridgepoint Education Inc@BPI@BPI US Equity
+170@Bright Horizons Family@BFAM@BFAM US Equity
+171@Brinker International Inc.@EAT@EAT US Equity
+172@Bristol-Myers Squibb Co.@BMY@BMY US Equity
+173@British Petroleum @BP@BP US Equity
+174@Broadcom Corp.@BRCM@BRCM US Equity
+175@Broadridge Financial Solutions@BR@BR US Equity
+176@Brocade Communications Systems@BRCD@BRCD US Equity
+177@Brookfield Asset Mgmt.@BAM@BAM US Equity
+178@Brown-Forman Corp.@BF.B@BF/B US Equity
+179@Brunswick@BC@BC US Equity
+180@BT Group PLC (ADR)@BT@BT US Equity
+181@Buckeye Partners L.P.@BPL@BPL US Equity
+182@Buckle Inc.@BKE@BKE US Equity
+183@Bucyrus International@BUCY@BUCY US Equity
+184@Buffalo Wild Wings@BWLD@BWLD US Equity
+185@Build-A-Bear Workshop Inc.@BBW@BBW US Equity
+186@Bunge@BG@BG US Equity
+187@Burger King Holdings Inc@BKW@BKW US Equity
+188@Burlington Northern Sante Fe Corp@BNI@BNI US Equity
+189@C&S Wholesale Grocers Inc.@22983Z@22983Z US Equity
+190@C.H. Robinson Worldwide@CHRW@CHRW US Equity
+191@C.R. Bard Inc.@BCR@BCR US Equity
+192@Cabelas Inc@CAB@CAB US Equity
+193@Cabot Corp.@CBT@CBT US Equity
+194@Cabot Oil & Gas Corp.@COG@COG US Equity
+195@CACI International Inc@CACI@CACI US Equity
+196@Cadence Design Systems Inc.@CDNS@CDNS US Equity
+197@Caesars Entertainment Corporation@CZR@CZR US Equity
+198@Calamos Asset Management Inc.@CLMS@CLMS US Equity
+199@Camden Property Trust@CPT@CPT US Equity
+200@Cameron International@CAM@CAM US Equity
+201@Campbell Soup Company@CPB@CPB US Equity
+202@Capella Education Company@CPLA@CPLA US Equity
+203@Capital One Financial Corp.@COF@COF US Equity
+204@Capitol Federal Financial@CFFN@CFFN US Equity
+205@Cardinal Health @CAH@CAH US Equity
+206@Carefusion Corp.@CFN@CFN US Equity
+207@CarMax@KMX@KMX US Equity
+208@Carnival Corp.@CCL@CCL US Equity
+209@Carrefour @CRRFY@CRRFY US Equity
+210@Carters Inc.@CRI@CRI US Equity
+211@Caseys General Stores Inc.@CASY@CASY US Equity
+212@Caterpillar@CAT@CAT US Equity
+213@Cavium Networks Inc@CAVM@CAVM US Equity
+214@CB Richard Ellis Group Inc.@CBG@CBG US Equity
+215@Cbeyond Inc.@CBEY@CBEY US Equity
+216@CBOE Holdings Inc.@CBOE@CBOE US Equity
+217@CBS Corp.@CBS@CBS US Equity
+218@Celgene Corp.@CELG@CELG US Equity
+219@CenterPoint Energy Inc.@CNP@CNP US Equity
+220@Centerview Partners LLC@N/A@798230Z US Equity
+221@Centex@CTX@0226226D US Equity
+222@CenturyLink Inc.@CTL@CTL US Equity
+223@Cephalon Inc.@CEPH@CEPH US Equity
+224@Cerner Corp.@CERN@CERN US Equity
+225@CF Industries Holdings Inc.@CF@CF US Equity
+226@Charles Schwab @SCHW@SCHW US Equity
+227@Chart Industries@GTLS@GTLS US Equity
+228@Cheesecake Factory Inc.@CAKE@CAKE US Equity
+229@Chemed Corp.@CHE@CHE US Equity
+230@Cherokee Inc Del New@CHKE@CHKE US Equity
+231@Chesapeake Energy Corp.@CHK@CHK US Equity
+232@Chevron @CVX@CVX US Equity
+233@Chicago Bridge & Iron Company@CBI@CBI US Equity
+234@Chicos @CHS@CHS US Equity
+235@China Bio-Energy Corp@CHIO@CHIO US Equity
+236@China Insonline Corp.@CHIOD@CHIOD US Equity
+237@China National Petroleum @#N/A@CNPZ CH Equity
+238@Chipotle Mexican Grill Inc@CMG@CMG US Equity
+239@Choice Hotels Intl Inc.@CHH@CHH US Equity
+240@Chubb Corp.@CB@CB US Equity
+241@Church & Dwight@CHD@CHD US Equity
+242@Churchill Downs Inc.@CHDN@CHDN US Equity
+243@CIENA Corp.@CIEN@CIEN US Equity
+244@CIGNA Corp.@CI@CI US Equity
+245@Cincinnati Financial Corp.@CINF@CINF US Equity
+246@Cintas Corp.@CTAS@CTAS US Equity
+247@Cirrus Logic Inc.@CRUS@CRUS US Equity
+248@Cisco@CSCO@CSCO US Equity
+249@CIT Group Inc.@CIT@CIT US Equity
+250@Citigroup @C@C US Equity
+251@Citrix Sys Inc.@CTXS@CTXS US Equity
+252@City National Corp.@CYN@CYN US Equity
+253@CLARCOR Inc.@CLC@CLC US Equity
+254@Clean Harbors Inc.@CLHB@CLH US Equity
+255@Clear Channel Communications@CCO@CCO US Equity
+256@Cleco Corp.@CNL@CNL US Equity
+257@Cliffs Natural Resources Inc.@CLF@CLF US Equity
+258@Clorox Company@CLX@CLX US Equity
+259@CME Group@CME@CME US Equity
+260@CNP Assuarances@#N/A@CNP FP Equity
+261@Coach Inc.@COH@COH US Equity
+262@Coca-Cola Company@KO@KO US Equity
+263@Coca-Cola Enterprises@CCE@CCE US Equity
+264@Cognex Corp.@CGNX@CGNX US Equity
+265@Cognizant Technology Sol.@CTSH@CTSH US Equity
+266@CoiNstar Inc.@CSTR@CSTR US Equity
+267@Coldwater Creek@CWTR@CWTR US Equity
+268@Colgate-Palmolive@CL@CL US Equity
+269@Columbia Sportswear Co@COLM@COLM US Equity
+270@Comcast Corp.@CMCSA@CMCSA US Equity
+271@Comerica Inc.@CMA@CMA US Equity
+272@Commerce Bancshares Inc.@CBSH@CBSH US Equity
+273@Commerce Bank@CBH@CBH US Equity
+274@Communications Infrastructure Investments LLC@N/A@981980Z US Equity
+275@CommVault Systems Inc.@CVLT@CVLT US Equity
+276@Compass Minerals International Inc@CMP@CMP US Equity
+277@Computer Associates (CA Inc.)@CA@CA US Equity
+278@Computer Sciences Corp.@CSC@CSC US Equity
+279@Compuware Corp.@CPWR@CPWR US Equity
+280@Comscore Inc.@SCOR@SCOR US Equity
+281@ConAgra Foods Inc.@CAG@CAG US Equity
+282@Concho Resources@CXO@CXO US Equity
+283@Concur Technologies Inc.@CNQR@CNQR US Equity
+284@ConocoPhillips @COP@COP US Equity
+285@Consol Energy Inc.@CNX@CNX US Equity
+286@Consolidated Edison Inc.@ED@ED US Equity
+287@Constellation Brands@STZ@STZ US Equity
+288@Constellation Energy Group@CEG@CEB US Equity
+289@Continental Airlines Inc.@CAL@CAL US Equity
+290@Continental Resources Inc.@CLR@CLR US Equity
+291@Convergys Corp.@CVG@CVG US Equity
+292@Con-Way Inc@CNW@CNW US Equity
+293@Cooper Companies@COO@COO US Equity
+294@Cooper Industries Ltd.@CBE@CBE US Equity
+295@Coors@TAP@TAP US Equity
+296@Copa Holdings S.A.@CPA@CPA US Equity
+297@Copart Inc.@CPRT@CPRT US Equity
+298@Core Laboratories N.V.@CLB@CLB US Equity
+299@Corning Inc.@GLW@GLW US Equity
+300@Corporate Executive Board Co.@CEB@CEB US Equity
+301@Costamare Inc@CMRE@CMRE US Equity
+302@Costco@COST@COST US Equity
+303@Covance Inc.@CVD@CVD US Equity
+304@Covidien Ltd.@COV@COV US Equity
+305@Cracker Barrel Old Country Store Inc@CBRL@CBRL US Equity
+306@Credit Acceptance Corp.@CACC@CACC US Equity
+307@Credit Agricole@CRARF@CRARF US Equity
+308@Credit Suisse @GOE@CSGKF US Equity
+309@Cree Inc.@CREE@CREE US Equity
+310@Crocs@CROX@CROX US Equity
+311@CSX Corp.@CSX@CSX US Equity
+312@Cubic Corp.@CUB@CUB US Equity
+313@Cullen Frost Bankers Inc.@CFR@CFR US Equity
+314@Cummins Inc@CMI@CMI US Equity
+315@CVC Capital Partners Ltd.@N/A@PEF1293 LN Equity
+316@CVS Caremark @CVS@CVS US Equity
+317@Cymer Inc.@CYMI@CYMI US Equity
+318@Cypress Semiconductor@CY@CY US Equity
+319@Daimler @DAI@DDAIF US Equity
+320@Danaher Corp@DHR@DHR US Equity
+321@Darden Restaurants Inc.@DRI@DRI US Equity
+322@DaVita Inc.@DVA@DVA US Equity
+323@Dawson Geophysical Co.@DWSN@DWSN US Equity
+324@Deckers Outdoor Corp.@DECK@DECK US Equity
+325@Deere & Company@DE@DE  US Equity
+326@Del Monte Foods Co@DLM@DLM US Equity
+327@Dell@DELL@DELL US Equity
+328@Delphi Automotive PLC@DLPH@DLPH US Equity
+329@Delta Air Lines Inc.@DAL@DAL US Equity
+330@Deluxe Corp.@DLX@DLX US Equity
+331@DENTSPLY International Inc.@XRAY@XRAY US Equity
+332@Deutsche Bank @DB@DB US Equity
+333@Deutsche Post @DPSGY@DPSGY US Equity
+334@Deutsche Telekom @DTEGY@DTEGY US Equity
+335@Devon Energy Corp.@DVN@DVN US Equity
+336@DeVry Inc.@DV@DV US Equity
+337@Dexia Group @#N/A@DEXB BB Equity
+338@Diamond Offshore Drilling@DO@DO US Equity
+339@Dicks Sporting Goods Inc.@DKS@DKS US Equity
+340@Digital River Inc.@DRIV@DRIV US Equity
+341@DIGITAL RLTY TR INC@DLR@DLR US Equity
+342@DineEquity Inc.@DIN@DIN US Equity
+343@Diodes Inc.@DIOD@DIOD US Equity
+344@Dionex Corp.@DNEX@DNEX US Equity
+345@DirecTv@DTV@DTV US Equity
+346@Discover Financial Services LLC@DFS@DFS US Equity
+347@Discovery Communications@DISCA@DISCA US Equity
+348@DISH Network@DISH@DISH US Equity
+349@Dolby Labs@DLB@DLB US Equity
+350@Dollar General@DG@DG US Equity
+351@Dollar Thrifty Automotive@DTG@DTG US Equity
+352@Dollar Tree Stores Inc.@DLTR@DLTR US Equity
+353@Dominion Resources Inc.@D@D US Equity
+354@Dominos Pizza@DPZ@DPZ US Equity
+355@Donaldson Inc.@DCI@DCI US Equity
+356@Dorman Products@DORM@DORM US Equity
+357@Dover Corp.@DOV@DOV US Equity
+358@Dow Chemical@DOW@DOW US Equity
+359@Dr Pepper Snapple Group@DPS@DPS US Equity
+360@DreamWorks Animation SKG Inc. (Cl A)@DWA@DWA US Equity
+361@Dresser-Rand Group@DRC@DRC US Equity
+362@Dril-Quip Inc.@DRQ@DRQ US Equity
+363@Dst Sys Inc Del@DST@DST US Equity
+364@DSW Inc.@DSW@DSW US Equity
+365@DTE Energy Company@DTE@DTE US Equity
+366@Duke Energy Corp.@DUK@DUK US Equity
+367@Dun & Bradstreet Corp.@DNB@DNB US Equity
+368@Dunkin Brands Group@DNKN@DNKN US Equity
+369@E.ON @EON@EOA EU Equity
+370@EADS@#N/A@EADS IX Equity
+371@EAGLE MATERIALS INC@EXP@EXP US Equity
+372@East West Bancorp Inc.@EWBC@EWBC US Equity
+373@EastGroup Properties Inc.@EGP@EGP US Equity
+374@Eastman Chemical Company@EMN@EMN US Equity
+375@easyJet @EJETF@ESYJY US Equity
+376@Eaton Corp@ETN@ETN US Equity
+377@Eaton Vance Corp.@EV@EV US Equity
+378@eBay @EBAY@EBAY US Equity
+379@EBIX Inc.@EBIX@EBIX US Equity
+380@Ecolab Inc.@ECL@ECL US Equity
+381@Eddie Bauer@EBHIQ@EBHIQ US Equity
+382@Eddie Bauer@EBHI@EBHI US Equity
+383@Eddie Bauer@EBHIQ@EBHIQ US Equity
+384@Edison International@EIX@EIX US Equity
+385@Edwards Lifesciences Corp.@EW@EW US Equity
+386@EI Dupont De Nemours@DD@DD US Equity
+387@El Paso Corp.@EP@EP US Equity
+388@electricite de France @ECIFY@ECIFY US Equity
+389@Electronic Arts @ERTS@EA US Equity
+390@Eli Lilly & Co.@LLY@LLY US Equity
+391@Embraer@ERJ@ERJ US Equity
+392@EMC Corp.@EMC@EMC US Equity
+393@EMCOR Group Inc.@EME@EME US Equity
+394@Emerson Electric@EMR@EMR US Equity
+395@Emulex Corp.@ELX@ELX US Equity
+396@Endo Pharmaceuticals@ENDP@ENDP US Equity
+397@Enel@EN@ENLAY US Equity
+398@Energen Corp.@EGN@EGN US Equity
+399@Energizer Holdings Inc.@ENR@ENR US Equity
+400@Energy Transfer Equity L.P.@ETE@ETE US Equity
+401@ENI @E@E US Equity
+402@ENstar Group Inc.@ESGR@ESGR US Equity
+403@Entegris Inc.@ENTG@ENTG US Equity
+404@Entergy Corp.@ETR@ETR US Equity
+405@EOG Resources Inc.@EOG@EOG US Equity
+406@Equifax Inc.@EFX@EFX US Equity
+407@Equinix Inc.@EQIX@EQIX US Equity
+408@Equity Lifestyles Properties Inc@ELS@ELS US Equity
+409@Ericsson@ERIC@ERIC US Equity
+410@Erie Indemnity Company@ERIE@ERIE US Equity
+411@Essex Property Trust Inc.@ESS@ESS US Equity
+412@EXCO Resources Inc@XCO@XCO US Equity
+413@Exelon Corp.@EXC@EXC US Equity
+414@Expedia Inc.@EXPE@EXPE US Equity
+415@Expeditors Intl of WA@EXPD@EXPD US Equity
+416@Express Inc.@EXPR@EXPR US Equity
+417@Express Scripts Inc.@ESRX@ESRX US Equity
+418@Exxon Mobil @XOM@XOM US Equity
+419@EZCORP Inc.@EZPW@EZPW US Equity
+420@Facebook@FB@FB US Equity
+421@FactSet Research Systems@FDS@FDS US Equity
+422@Fairchild Semiconductor Inc.@FCS@FCS US Equity
+423@Family Dollar Stores@FDO@FDO US Equity
+424@Fastenal Co@FAST@FAST US Equity
+425@Federal Realty Invt Tr@FRT@FRT US Equity
+426@Federated Investors@FII@FII US Equity
+427@FedEx @FDX@FDX US Equity
+428@FEI Co.@FEIC@FEIC US Equity
+429@Fiat @FIA@FIATY US Equity
+430@Fidelity National information Services Inc.@FIS@FIS US Equity
+431@Fifth & Pacific Cos Inc.@FNP@FNP US Equity
+432@Fifth Third Bancorp@FITB@FITB US Equity
+433@Finisar Corp.@FNSR@FNSR US Equity
+434@Finish Line Inc@FINL@FINL US Equity
+435@Firepond Inc.@FPNDQ@FPNDQ US Equity
+436@First Financial Bankshare@FFIN@FFIN US Equity
+437@First Horizon National@FHN@FHN US Equity
+438@First Niagara Financial@FNFG@FNFG US Equity
+439@First Republic Bank@FRC@FRC US Equity
+440@First Solar@FSLR@FSLR US Equity
+441@FirstEnergy Corp.@FE@FE US Equity
+442@Fiserv Inc.@FISV@FISV US Equity
+443@FleetCor Technologies Inc.@FLT@FLT US Equity
+444@Flir Sys Inc.@FLIR@FLIR US Equity
+445@Flowserve Corp.@FLS@FLS US Equity
+446@Fluor Corporation@FLR@FLR US Equity
+447@FMC Corp.@FMC@FMC US Equity
+448@FMC Technologies Inc.@FTI@FTI US Equity
+449@Foot Locker Inc.@FL@FL US Equity
+450@Ford Motor @F@F US Equity
+451@Fortinet Inc.@FTNT@FTNT US Equity
+452@Fortis @#N/A@FTS CN Equity
+453@Fortress Investment@FIG@FIG US Equity
+454@Fortune Brands Home & Security@FBHS@FBHS US Equity
+455@Fortune Brands Inc.@FO@FO US Equity
+456@Forward Air@FWRD@FWRD US Equity
+457@Fossil Inc.@FOSL@FOSL US Equity
+458@FPL Group Inc.@FPL@FPL US Equity
+459@FPX LLC@N/A@0555125D US Equity
+460@France Telecom @FTE@FTE US Equity
+461@Francescas Holding Corp@FRAN@FRAN US Equity
+462@Franklin Electric Co Inc@FELE@FELE US Equity
+463@Franklin Res Inc.@BEN@BEN US Equity
+464@Freeport-McMoran Copper &@FCX@FCX US Equity
+465@Freescale Semiconductor@FSL@FSL US Equity
+466@Frontier Communications Corp.@FTR@FTR US Equity
+467@FTI Consulting Inc.@FCN@FCN US Equity
+468@GAMCO Investors Inc. (Cl A)@GBL@GBL US Equity
+469@GameStop Corp.@GME@GME US Equity
+470@Gap@GPS@GPS US Equity
+471@Gardner Denver Inc.@GDI@GDI US Equity
+472@Garmin Ltd.@GRMN@GRMN US Equity
+473@Gartner Inc.@IT@IT US Equity
+474@Gazprom @OGZPY@OGZPY US Equity
+475@GDF Suez@GSZ @GSZ FP Equity
+476@GE@GE@GE US Equity
+477@Genentech Inc.@DNA@DNA US Equity
+478@General Cable Corp.@BGC@BGC US Equity
+479@General Dynamics Corp@GD@GD US Equity
+480@General Mills@GIS@GIS US Equity
+481@General Motors @GM@GM US Equity
+482@Genesco Inc.@GCO@GCO US Equity
+483@GENESEE & WYO INC@GWR@GWR US Equity
+484@Genpact Ltd@G@G US Equity
+485@Gen-Probe Inc.@GPRO@GPRO US Equity
+486@Gentex Corp.@GNTX@GNTX US Equity
+487@Genuine Parts Co@GPC@GPC US Equity
+488@Genworth Financial@GNW@GNW US Equity
+489@Genzyme Corp.@GENZ@GENZ US Equity
+490@Giant Interactive Group Inc@GA@GA US Equity
+491@Gildan Activewear Inc@GIL@GIL US Equity
+492@Gilead Sciences Inc.@GILD@GILD US Equity
+493@Glacier Bancorp Inc.@GBCI@GBCI US Equity
+494@Glaxo Smithkline@GSK@GSK US Equity
+495@Global Payments Inc.@GPN@GPN US Equity
+496@Globe Specialty Metals@GSM@GSM US Equity
+497@GNC Holdings@GNC@GNC US Equity
+498@Golden Gate Capital Corp.@N/A@6083Z US Equity
+499@Goldman Sachs Group @GS@GS US Equity
+500@Goodrich Corp.@GR@GR US Equity
+501@Goodyear Tire & Rubber Co@GT@GT US Equity
+502@Google@GOOG@GOOG US Equity
+503@Government Properties Income Trust@GOV@GOV US Equity
+504@Graco Inc.@GGG@GGG US Equity
+505@GrafTech International Ltd.@GTI@GTI US Equity
+506@Granite Construction Inc.@GVA@GVA US Equity
+507@Graphic Packaging Corp.@GPK@GPK US Equity
+508@Great Northn Iron Ore Pptys@GNI@GNI US Equity
+509@Green Mountain Coffee Inc.@GMCR@GMCR US Equity
+510@Greenhill & Co Inc.@GHL@GHL US Equity
+511@Guess Inc.@GES@GES US Equity
+512@Gymboree Corp.@GYMB@GYMB US Equity
+513@H&R Block Inc.@HRB@HRB US Equity
+514@H.J. Heinz Company@HNZ@HNZ US Equity
+515@Haemonetics Corp.@HAE@HAE US Equity
+516@Halliburton@HAL@HAL US Equity
+517@Hanesbrands@HBI@HBI US Equity
+518@Hanover Insurance Group@THG@THG US Equity
+519@Hansen Nat Corp.@HANS@HANS US Equity
+520@Harley Davidson@HOG@HOG US Equity
+521@Harris Corp.@HRS@HRS US Equity
+522@Hartford Financial Servic@HIG@HIG US Equity
+523@Hasbro Inc.@HAS@HAS US Equity
+524@HCA Inc.@HCA@HCA US Equity
+525@Health Care Property Inve@HCP@HCP US Equity
+526@Health Care REIT Inc.@HCN@HCN US Equity
+527@Health Net Inc.@HNT@HNT US Equity
+528@Healthcare Services Group@HCSG@HCSG US Equity
+529@Healthsouth Corp.@HLS@HLS US Equity
+530@Healthways Inc.@HWAY@HWAY US Equity
+531@Heartland Express Inc.@HTLD@HTLD US Equity
+532@Heartland Payment Systems Inc.@HPY@HPY US Equity
+533@Heineken N.V.@HINKY@HINKY US Equity
+534@Helix Energy Solutions Group@HLX@HLX US Equity
+535@Hennes and Mauritz@#N/A@HMB SS Equity
+536@Henry Schein Inc.@HSIC@HSIC US Equity
+537@Herbalife Ltd.@HLF@HLF US Equity
+538@Herman Miller Inc.@MLHR@MLHR US Equity
+539@Hershey Foods Corp.@HSY@HSY US Equity
+540@Hess Corp.@HES@HES US Equity
+541@Hewlett Packard @HPQ@HPQ US Equity
+542@Hibbett Sports Inc@HIBB@HIBB US Equity
+543@Hitachi @HTHIY@HTHIY US Equity
+544@Hittite Microwave Corp.@HITT@HITT US Equity
+545@HK Shanghai BANK @HBC@HBC US Equity
+546@HMS Holdings Corp.@HMSY@HMSY US Equity
+547@Holly  Corporation@HFC@HFC US Equity
+548@Home Depot @HD@HD US Equity
+549@Home Properties Inc.@HME@HME US Equity
+550@Honda Motor Company@HMC@HMC US Equity
+551@Honeywell International@HON@HON US Equity
+552@Hormel Foods Corp.@HRL@HRL US Equity
+553@Hospira Inc.@HSP@HSP US Equity
+554@Hubbell Inc. @HUB/b@HUB/b US Equity
+555@Hudson City Bancorp Inc.@HCBK@HCBK US Equity
+556@Humana Inc.@HUM@HUM US Equity
+557@Huntington Bancshares@HBAN@HBAN US Equity
+558@Huntsman Corp@HUN@HUN US Equity
+559@Huron Consulting Group@HURN@HURN US Equity
+560@Hyatt Hotels@H@H US Equity
+561@IBERIABANK Corp.@IBKC@IBKC US Equity
+562@IBM @IBM@IBM US Equity
+563@Iconix Brand Group Inc.@ICON@ICON US Equity
+564@IDACORP Inc.@IDA@IDA US Equity
+565@IDEX Corp.@IEX@IEX US Equity
+566@IDEXX Laboratories Inc.@IDXX@IDXX US Equity
+567@IHS Inc.@IHS@IHS US Equity
+568@Illinois Tool Works Inc.@ITW@ITW US Equity
+569@Illumina Inc.@ILMN@ILMN US Equity
+570@Imax Corp@IMAX@IMAX US Equity
+571@Immucor Inc.@BLUD@BLUD US Equity
+572@Imperial Tobacco Group PLC@ITYBY@ITYBY US Equity
+573@Indian Oil@#N/A@IOCL IN Equity
+574@IndyMac@IMB@IMB US Equity
+575@IndyMac Bancorp Inc.@IDMCQ@IDMCQ US Equity
+576@Inergy Holdings LP@NRGY@NRGY US Equity
+577@Infosys Limited Inc.@INFY@INFY US Equity
+578@ING@ING@ING US Equity
+579@Ingersoll-Rand plc@IR@IR US Equity
+580@Ingram Micro Inc.@IM@IM US Equity
+581@Innophos Holdings Inc.@IPHS@IPHS US Equity
+582@Integrated Device@IDTI@IDTI US Equity
+583@Integrys Energy Group Inc.@TEG@TEG US Equity
+584@Intel @INTC@INTC US Equity
+585@Interactive Data Corp.@IDC@IDC US Equity
+586@InterActiveCorp@IACI@IACI US Equity
+587@IntercontinentalExchange Inc.@ICE@ICE US Equity
+588@InterDigital Communications@IDCC@IDCC US Equity
+589@Interface Inc.@TILE@TILE US Equity
+590@Interface Inc.@IFSIA@IFSIA US Equity
+591@International Bancshares@IBOC@IBOC US Equity
+592@International Flavors & F@IFF@IFF US Equity
+593@International Game Tech.@IGT@IGT US Equity
+594@International Paper@IP@IP US Equity
+595@International Rectifier@IRF@IRF US Equity
+596@International Speedway@ISCA@ISCA US Equity
+597@Intersil Corp.@ISIL@ISIL US Equity
+598@Interval Leisure Group Inc.@IILG@IILG US Equity
+599@Intuit @INTU@INTU US Equity
+600@Intuitive Surgical Inc.@ISRG@ISRG US Equity
+601@InvenSense Inc.@INVN@INVN US Equity
+602@Invesco Ltd@IVZ@IVZ US Equity
+603@IPG Photonics Corp@IPGP@IPGP US Equity
+604@iRobot Corporation@IRBT@IRBT US Equity
+605@ITC Holdings Corp@ITC@ITC US Equity
+606@ITT Educational Services@ESI@ESI US Equity
+607@ITT Industries Inc.@ITT@ITT US Equity
+608@J & J Snack Foods Corp.@JJSF@JJSF US Equity
+609@J Sainsbury PLC (ADR)@JSAIY@JSAIY US Equity
+610@J.B. Hunt Transport Services@JBHT@JBHT US Equity
+611@J.C. Penney Company Inc.@JCP@JCP US Equity
+612@J.P. Morgan Chase & Co. @JPM@JPM US Equity
+613@Jabil Circuit Inc.@JBL@JBL US Equity
+614@Jack Henry & Associates Inc.@JKHY@JKHY US Equity
+615@Jack in the Box Inc.@JACK@JACK US Equity
+616@JAMBA Juice@JMBA@JMBA US Equity
+617@Janus Capital Group Inc.@JNS@JNS US Equity
+618@Jarden Corp@JAH@JAH US Equity
+619@JDS Uniphase Corp.@JDSU@JDSU US Equity
+620@JetBlue@JBLU@JBLU US Equity
+621@Johnson & Johnson@JNJ@JNJ US Equity
+622@Johnson Controls Inc.@JCI@JCI US Equity
+623@Jones Lang LaSalle Inc.@JLL@JLL US Equity
+624@Jos. A. Bank Clothiers Inc.@JOSB@JOSB US Equity
+625@Joy Global Inc.@JOYG@JOY US Equity
+626@Juniper Networks Inc.@JNPR@JNPR US Equity
+627@K12 Inc@LRN@LRN US Equity
+628@KBR Inc.@KBR@KBR US Equity
+629@Kellogg Company@K@K US Equity
+630@Kendle International Inc.@KNDL@KNDL US Equity
+631@Kennametal Inc.@KMT@KMT US Equity
+632@Kikkoman @KIKOF@2801 JP Equity
+633@Kimberly-Clark Corp@KMB@KMB US Equity
+634@Kinder Morgan Energy Part@KMP@KMP US Equity
+635@Kindred Healthcare Inc.@KND@KND US Equity
+636@Kirby Corp.@KEX@KEX US Equity
+637@KKR & Co LP@N/A@PEF1911 US Equity
+638@KLA-Tencor Corp.@KLAC@KLAC US Equity
+639@Kohls@KSS@KSS US Equity
+640@KONE Corporation@7610363Z@7610363Z US Equity
+641@Koninklijke Philips Elect@PHG@PHG US Equity
+642@Kraft Foods Inc.@KFT@KFT US Equity
+643@Krispy Kreme@KKD@KKD US Equity
+644@Kroger @KR@KR US Equity
+645@Kronos Worldwide Inc@KRO@KRO US Equity
+646@Kulicke and Soffa Inds.@KLIC@KLIC US Equity
+647@L-3 Communications Hldgs.@LLL@LLL US Equity
+648@Laboratory Corp. of Ameri@LH@LH US Equity
+649@Laclede Group Inc.@LG@LG US Equity
+650@Lam Research Corp.@LRCX@LRCX US Equity
+651@Lancaster Colony Corp.@LANC@LANC US Equity
+652@Landauer Inc.@LDR@LDR US Equity
+653@Landstar System Inc.@LSTR@LSTR US Equity
+654@Las Vegas Sands Corp@LVS@LVS US Equity
+655@Lauder Estee Inc.@EL@EL US Equity
+656@Lazard Ltd@LAZ@LAZ US Equity
+657@Lear Corp.@LEA@LEA US Equity
+658@Leggett & Platt Inc@LEG@LEG US Equity
+659@LEGO System A/S@#N/A@0119516D US Equity
+660@Lehman Brothers Holdings@LEH@LEH US Equity
+661@Lehman Brothers Holdings@LEHMQ@LEHMQ US Equity
+662@Lender  Processing  Services  Inc@LPS@LPS US Equity
+663@Lennox Intl@LII@LII US Equity
+664@Leonard Green & Partners LP@N/A@PEF1414 US Equity
+665@Level 3 Communications@LVLT@LVLT US Equity
+666@Levi Strauss@8089Z@8089Z US Equity
+667@Lexmark International Inc.@LXK@LXK US Equity
+668@LG @#N/A@066570 KS Equity
+669@Liberty Global@LBTYA@LBTYA US Equity
+670@Liberty Interactive@LINTA@LINTA US Equity
+671@Liberty Media Corp.@LSTZA@LMCA US Equity
+672@Liberty Property Trust@LRY@LRY US Equity
+673@Life Technologies Corporation@LIFE@LIFE US Equity
+674@Life Time Fitness Inc.@LTM@LTM US Equity
+675@LifePoint Hospitals Inc.@LPNT@LPNT US Equity
+676@Limited Brands Inc.@LTD@LTD US Equity
+677@Lincare Holdings Inc.@LNCR@LNCR US Equity
+678@Lincoln Electric Holdings@LECO@LECO US Equity
+679@Lincoln National Corp.@LNC@LNC US Equity
+680@Lindsay Corporation@LNN@LNN US Equity
+681@Linear Technology Corp.@LLTC@LLTC US Equity
+682@LinkedIn@LNKD@LNKD US Equity
+683@Linn Energy LLC@LINE@LINE US Equity
+684@Liquidity Services Inc@LQDT@LQDT US Equity
+685@Littelfuse Inc.@LFUS@LFUS US Equity
+686@LivePerson Inc.@LPSN@LPSN US Equity
+687@Liz Claiborne@LIZ@LIZ US Equity
+688@LKQ Corp.@LKQ@LKQ US Equity
+689@LKQ Corp.@LKQX@LKQX US Equity
+690@Lloyds TSB Group@LYG@LYG US Equity
+691@Lockheed Martin Corp@LMT@LMT US Equity
+692@Loral  Space  &  Communications  Inc.@LORL@LORL US Equity
+693@Lorillard Inc.@LO@LO US Equity
+694@Louisiana-Pacific Corp.@LPX@LPX US Equity
+695@Lowes Companies Inc.@LOW@LOW US Equity
+696@LSI Logic Corp.@LSI@LSI US Equity
+697@Lubrizol Corp.@LZ@LZ US Equity
+698@Lukoil @LUKOY@LUKOY US Equity
+699@Lululemon Athletica Inc.@LULU@LULU US Equity
+700@Lumber Liquidators@LL@LL US Equity
+701@M&T Bank Corp.@MTB@MTB US Equity
+702@Macquarie Infrastructure Company LLC @MIC@MIC US Equity
+703@Macys Inc.@M@M US Equity
+704@Madison Square Garden Co.@MSG@MSG US Equity
+705@Magellan Midstream Partners LP.@MMP@MMP US Equity
+706@Magna Intl A@MGA@MGA US Equity
+707@Manhattan Associates Inc.@MANH@MANH US Equity
+708@Manitowoc Company Inc.@MTW@MTW US Equity
+709@Manpower Inc.@MAN@MAN US Equity
+710@ManTech International Corp.@MANT@MANT US Equity
+711@Manulife Financial Corp.@MFC@MFC US Equity
+712@Marathon Oil@MRO@MRO US Equity
+713@MARKEL CORP@MKL@MKL US Equity
+714@MarkWest Energy Partners Inc.@MWE@MWE US Equity
+715@Marriott @MAR@MAR US Equity
+716@Mars Incorporated@#N/A@4614Z US Equity
+717@Marsh & McLennan Cos@MMC@MMC US Equity
+718@Martin Marietta Materials@MLM@MLM US Equity
+719@Marvell Technology Group@MRVL@MRVL US Equity
+720@Masco Corp.@MAS@MAS US Equity
+721@MasterCard Worldwide@MA@MA US Equity
+722@Matsushita Electric Industrial @MC @MC  US Equity
+723@Mattel Inc.@MAT@MAT US Equity
+724@MAXIMUS Inc.@MMS@MMS US Equity
+725@McCormick & Co Inc.@MKC@MKC US Equity
+726@McDermott International@MDR@MDR US Equity
+727@McDonalds@MCD@MCD US Equity
+728@MCGRAW HILL FINANCIAL INC@MHFI@MHFI US Equity
+729@McGraw-Hill Companies@MHP@MHP US Equity
+730@McKesson @MCK@MCK US Equity
+731@Mead Johnson Nutrition Co@MJN@MJN US Equity
+732@MeadWestvaco Corp.@MWV@MWV US Equity
+733@Medco Health Solutions Inc.@MHS@MHS US Equity
+734@Medicines Company@MDCO@MDCO US Equity
+735@Medicis Pharmaceutical Company@MRX@MRX US Equity
+736@Medifast Inc.@MED@MED US Equity
+737@Mednax@MD@MD US Equity
+738@Medtronic Inc.@MDT@MDT US Equity
+739@MEMC Electronic Materials@WFR@WFR US Equity
+740@Men’s Wearhouse @MW@MW US Equity
+741@Mentor Graphics Corp.@MENT@MENT US Equity
+742@Merck@MRK@MRK US Equity
+743@Mercury General Corp.@MCY@MCY US Equity
+744@Meredith Corp.@MDP@MDP US Equity
+745@MetLife@MET@MET US Equity
+746@Metro PCS Communic.@PCS@PCS US Equity
+747@Metro-Goldwyn-Mayer Inc.@MGM@MGM US Equity
+748@Mettler-Toledo Intl@MTD@MTD US Equity
+749@MGE Energy Inc.@MGEE@MGEE US Equity
+750@Michael Kors Hldgs.@KORS@KORS US Equity
+751@Microchip Technology Inc.@MCHP@MCHP US Equity
+752@Micron Technology Inc.@MU@MU US Equity
+753@Micros Systems Inc.@MCRS@MCRS US Equity
+754@Microsemi Corp.@MSCC@MSCC US Equity
+755@Microsoft Corp.@MSFT@MSFT US Equity
+756@MicroStrategy Inc.@MSTR@MSTR US Equity
+757@Mid-America Apartment@MAA@MAA US Equity
+758@Middleby Corp.@MIDD@MIDD US Equity
+759@Millipore Corp.@MIL@MIL US Equity
+760@Mine Safety Appliances@MSA@MSA US Equity
+761@Minerals Technologies Inc.@MTX@MTX US Equity
+762@Mitsubishi  @MSBHY@MSBHY US Equity
+763@Mitsubishi UFJ Financial Group@MTU@MTU US Equity
+764@MKS Instruments Inc.@MKSI@MKSI US Equity
+765@Mohawk Industries Inc.@MHK@MHK US Equity
+766@Molex Inc.@MOLX@MOLX US Equity
+767@Monex Group Inc.@MNXBY@MNXBY US Equity
+768@MoneyGram International Inc.@MGI@MGI US Equity
+769@Monotype Imaging Holdings Inc.@TYPE@TYPE US Equity
+770@Monro Muffler Brake Inc.@MNRO@MNRO US Equity
+771@Monsanto Company@MON@MON US Equity
+772@Monster Beverage Corp@MNST@MNST US Equity
+773@Monster Worldwide Inc. Inc.@MWW@MWW US Equity
+774@Moodys Corp.@MCO@MCO US Equity
+775@Morgan Stanley @MS@MS US Equity
+776@Morningstar Inc.@MORN@MORN US Equity
+777@Mosaic Co.@MOS@MOS US Equity
+778@Motorola Mobility Holdings Inc.@MMI@MMI US Equity
+779@Motorola Solutions Inc@MSI@MSI US Equity
+780@Motorola Inc.@MOT@MOT US Equity
+781@MSC Industrial Direct Co.@MSM@MSM US Equity
+782@MTS System Corp.@MTSC@MTSC US Equity
+783@Mueller Industries Inc.@MLI@MLI US Equity
+784@Munich Re Group @#N/A@2141108Z US Equity
+785@Myriad Genetics Inc.@MYGN@MYGN US Equity
+786@Nalco Holdings@NLC@NLC US Equity
+787@National Fuel Gas Co.@NFG@NFG US Equity
+788@National Instruments Corp.@NATI@NATI US Equity
+789@National Oilwell Varco@NOV@NOV US Equity
+790@National Presto Industrie@NPK@NPK US Equity
+791@National Retail Properties Inc.@NNN@NNN US Equity
+792@National Semiconductor Corp.@NSM@NSM US Equity
+793@Navigators Group Inc.@NAVG@NAVG US Equity
+794@Navistar International@NAV@NAV US Equity
+795@NCR Corp.@NCR@NCR US Equity
+796@Nestle @NSRGY@NSRGY US Equity
+797@Netflix Inc.@NFLX@NFLX US Equity
+798@NetGear Inc.@NTGR@NTGR US Equity
+799@Network Appliance Inc.@NTAP@NTAP US Equity
+800@New York Community Bancorp.@NYB@NYB US Equity
+801@Newell Rubbermaid Inc.@NWL@NWL US Equity
+802@NewMarket Corporation@NEU@NEU US Equity
+803@Newmont Mining Corp.@NEM@NEM US Equity
+804@NextEra Energy Inc.@NEE@NEE US Equity
+805@Nicor Inc.@GAS@GAS US Equity
+806@Nike @NKE@NKE US Equity
+807@NiSource Inc.@NI@NI US Equity
+808@Noble Corp.@NE@NE US Equity
+809@Noble Energy Inc.@NBL@NBL US Equity
+810@Nokia Corp.@NOK@NOK US Equity
+811@Nordson Corp.@NDSN@NDSN US Equity
+812@Nordstorm@JWN@JWN US Equity
+813@Norfolk Southern Corp.@NSC@NSC US Equity
+814@Northeast Utilities@NU@NU US Equity
+815@Northern Trust Corp@NTRS@NTRS US Equity
+816@Northrop Gunman Corp@NOC@NOC US Equity
+817@Northwest Bancshares@NWBI@NWBI US Equity
+818@Northwest Natural Gas@NWN@NWN US Equity
+819@NorthWestern Corp.@NWE@NWE US Equity
+820@Novartis@NVS@NVS US Equity
+821@Novo Nordisk A/S (ADR)@NVO@NVO US Equity
+822@Nstar@NST@NST US Equity
+823@NU Skin Enterprises Inc.@NUS@NUS US Equity
+824@Nuance Communications@NUAN@NUAN US Equity
+825@Nucor Corp.@NUE@NUE US Equity
+826@NuStar Energy L.P.@NS@NS US Equity
+827@Nuvasive Inc.@NUVA@NUVA US Equity
+828@NVE Corp.@NVEC@NVEC US Equity
+829@NVIDIA Corp.@NVDA@NVDA US Equity
+830@NVR Inc.@NVR@NVR US Equity
+831@NxStage Medical Inc.@NXTM@NXTM US Equity
+832@NYSE Euronext Inc.@NYX@NYX US Equity
+833@Occidental Petroleum Corp.@OXY@OXY US Equity
+834@Office Depot Inc.@ODP@ODP US Equity
+835@OfficeMax Inc.@OMX@OMX US Equity
+836@OGE Energy Corp.@OGE@OGE US Equity
+837@Oil States International@OIS@OIS US Equity
+838@Old Dominion Freight Line@ODFL@ODFL US Equity
+839@Old National Bancorp@ONB@ONB US Equity
+840@Omnicom Group Inc.@OMC@OMC US Equity
+841@ON Semiconductor Corp.@ONNN@ONNN US Equity
+842@ONEOK Inc.@OKE@OKE US Equity
+843@OneWest Bank@N/A@3257200Z US Equity
+844@Ontario Teachers Pension Plan Board@N/A@1885Z CN Equity
+845@OpenTable Inc@OPEN@OPEN US Equity
+846@Oracle Corp @ORCL@ORCL US Equity
+847@OReilly Automotive Inc.@ORLY@ORLY US Equity
+848@Ormat Technologies Inc.@ORA@ORA US Equity
+849@Oshkosh Truck Corp.@OSK@OSK US Equity
+850@OSI Pharmaceuticals Inc.@OSIP@OSIP US Equity
+851@Outerwall Inc.@OUTR@OUTR US Equity
+852@Owens & Minor Inc.@OMI@OMI US Equity
+853@OWENS Corning Inc. NEW@OC@OC US Equity
+854@Owens-Illinois Inc.@OI@OI US Equity
+855@Oxford Inds.@OXM@OXM US Equity
+856@P F Changes China Bistro Inc.@PFCB@PFCB US Equity
+857@P&G @PG@PG US Equity
+858@PACCAR Inc.@PCAR@PCAR US Equity
+859@Packaging Corp. of America@PKG@PKG US Equity
+860@Pall@PLL@PLL US Equity
+861@Panasonic Corp.@PC@PC US Equity
+862@Panera Bread Company@PNRA@PNRA US Equity
+863@Parker-Hannifin Corp.@PH@PH US Equity
+864@Patterson Companies Inc.@PDCO@PDCO US Equity
+865@Paychex Inc.@PAYX@PAYX US Equity
+866@Peabody Energy Corp.@BTU@BTU US Equity
+867@Pearson PLC (ADR)@PSO@PSO US Equity
+868@Pemex @#N/A@0195736D MM Equity
+869@Penske Automotive Group Inc@PAG@PAG US Equity
+870@Pentair Inc.@PNR@PNR US Equity
+871@Pepco Holdings Inc.@POM@POM US Equity
+872@Pepsi Bottling Group@PBG@PBG US Equity
+873@PepsiCo@PEP@PEP US Equity
+874@PerkinElmer Inc.@PKI@PKI US Equity
+875@Perrigo Company@PRGO@PRGO US Equity
+876@PETsMART Inc.@PETM@PETM US Equity
+877@Pfizer Inc.@PFE@PFE US Equity
+878@PG&E Corp.@PCG@PCG US Equity
+879@Philip Morris International Inc. @PM@PM US Equity
+880@Philips Van Heusen@PVH@PVH US Equity
+881@Piedmont Natural Gas Co.@PNY@PNY US Equity
+882@Pier 1 Imports Inc.@PIR@PIR US Equity
+883@Pinnacle West Capital@PNW@PNW US Equity
+884@Pioneer Natural Resources@PXD@PXD US Equity
+885@Pitney Bowes@PBI@PBI US Equity
+886@Plantronics Inc.@PLT@PLT US Equity
+887@Plum Creek Timber Co. Inc.@PCL@PCL US Equity
+888@PMC-Sierra Inc.@PMCS@PMCS US Equity
+889@PNC Financial Services@PNC@PNC US Equity
+890@Polaris Industries Inc.@PII@PII US Equity
+891@Polo Ralph Lauren Corp.@RL@RL US Equity
+892@Polycom Inc.@PLCM@PLCM US Equity
+893@Power Integrations Inc.@POWI@POWI US Equity
+894@PPG Industries@PPG@PPG US Equity
+895@PPL@PPL@PPL US Equity
+896@PPR@PP@PP FP Equity
+897@Praxair Inc.@PX@PX US Equity
+898@Precision Castparts Corp.@PCP@PCP US Equity
+899@priceline.com Inc.@PCLN@PCLN US Equity
+900@PriceSmart Inc.@PSMT@PSMT US Equity
+901@Principal Financial Group@PFG@PFG US Equity
+902@ProAssurance Corp.@PRA@PRA US Equity
+903@Progress Energy Inc.@PGN@PGN US Equity
+904@Progressive Corp.@PGR@PGR US Equity
+905@ProLogis@PLD@PLD US Equity
+906@Protective Life Corp.@PL@PL US Equity
+907@Protein Design Labs Inc.@PDLI@PDLI US Equity
+908@Providence Equity Partners Inc.@N/A@117693Z US Equity
+909@Prudential @PUK@PUK US Equity
+910@Prudential Financial Inc.@PRU@PRU US Equity
+911@PS Business Parks Inc.@PSB@PSB US Equity
+912@PSS World Medical Inc.@PSSI@PSSI US Equity
+913@Psychiatric Solutions Inc.@PSYS@PSYS US Equity
+914@Public Service Enterprise@PEG@PEG US Equity
+915@Public Storage Inc.@PSA@PSA US Equity
+916@Publix Super Markets@PUSH@PUSH US Equity
+917@Pulte Group Inc.@PHM@PHM US Equity
+918@Puma@#N/A@PUM GR Equity
+919@Qlik  Technologies  Inc.@QLIK@QLIK US Equity
+920@QLogic Corp.@QLGC@QLGC US Equity
+921@Qualcomm @QCOM@QCOM US Equity
+922@Quality Systems Inc.@QSII@QSII US Equity
+923@Quest Diagnostics Inc@DGX@DGX US Equity
+924@Questar Corp.@STR@STR US Equity
+925@Questcor Pharmac.@QCOR@QCOR US Equity
+926@Qwest Communications Int.@Q@Q US Equity
+927@R.R. Donnelley & Sons Co.@RRD@RRD US Equity
+928@Rackspace Hosting Inc@RAX@RAX US Equity
+929@Ralcorp Holdings Inc.@RAH@RAH US Equity
+930@Rambus Inc.@RMBS@RMBS US Equity
+931@Raymond James Financial@RJF@RJF US Equity
+932@Rayonier Inc.@RYN@RYN US Equity
+933@Raytheon@RTN@RTN US Equity
+934@RBC Bearings Inc@ROLL@ROLL US Equity
+935@Realty Income Corp.@O@O US Equity
+936@Red Hat@RHT@RHT US Equity
+937@Regal-Beloit Corp.@RBC@RBC US Equity
+938@Reinsurance Group of Am.@RGA@RGA US Equity
+939@Reliance Steel & Aluminum@RS@RS US Equity
+940@Renault@RNSDF@RNSDF US Equity
+941@Rent-A-Center Inc@RCII@RCII US Equity
+942@ResMed Inc.@RMD@RMD US Equity
+943@Resolute Energy Corporation@REN@REN US Equity
+944@Reynolds American@RAI@RAI US Equity
+945@Ritchie Brothers@RBA@RBA US Equity
+946@Riverbed Technology Inc@RVBD@RVBD US Equity
+947@RLI CORP@RLI@RLI US Equity
+948@Robbins & Myers Inc.@RBN@RBN US Equity
+949@Robert Half International@RHI@RHI US Equity
+950@Roche Holding AG (ADR)@RHHBY@RHHBY US Equity
+951@Rockwell Automation Inc.@ROK@ROK US Equity
+952@Rockwell Colins Inc.@COL@COL US Equity
+953@Rockwood Holdings Inc.@ROC@ROC US Equity
+954@Rocky Mountain Chocolate Factory@RMCF@RMCF US Equity
+955@Rohm and Haas Company@ROH@ROH US Equity
+956@Roper Industries Inc.@ROP@ROP US Equity
+957@Ross Stores Inc.@ROST@ROST US Equity
+958@ROVI Corp@ROVI@ROVI US Equity
+959@Royal Dutch Shell @RDSA@RDSA NA Equity
+960@Royal Gold Inc.@RGLD@RGLD US Equity
+961@RSC Holdings Inc.@RRR@RRR US Equity
+962@RWE@RWEOY@RWEOY US Equity
+963@Ryder System Inc.@R@R US Equity
+964@S.C. Johnson & Son Inc.@#N/A@3273Z US Equity
+965@Safeway Inc.@SWY@SWY US Equity
+966@Saint-Gobain@#N/A@3528415Z FP Equity
+967@Saks Inc@SKS@SKS US Equity
+968@Salesforce.com@CRM@CRM US Equity
+969@Sally Beauty@SBH@SBH US Equity
+970@Samsung Electronics @#N/A@SMSN LI Equity
+971@SanDisk Corp.@SNDK@SNDK US Equity
+972@Sanofi@SNY@SNY US Equity
+973@Santander Central Hispano Group @SAN@STD US Equity
+974@SAP AG@SAP@SAP US Equity
+975@Sapient @SAPE@SAPE US Equity
+976@Sara Lee Corp.@SLE@SLE US Equity
+977@Sauer-Danfoss Inc.@SHS@SHS US Equity
+978@SCANA Corp.@SCG@SCG US Equity
+979@Schering-Plough Corp.@SGP@SGP US Equity
+980@Schlumberger Limited@SLB@SLB US Equity
+981@Schweitzer-Mauduit Intl@SWM@SWM US Equity
+982@Science Applications International Corporation (SAIC)@SAI@SAI US Equity
+983@SCP Pool Corp.@POOL@POOL US Equity
+984@Scripps Networks Interactive Inc@SNI@SNI US Equity
+985@Seacor Smit Inc.@CKH@CKH US Equity
+986@Seagate Technology@STX@STX US Equity
+987@Sealed Air Corp.@SEE@SEE US Equity
+988@Sears Holdings Corporation@SHLD@SHLD US Equity
+989@SEI Investments Co@SEIC@SEIC US Equity
+990@Select Comfort Corp.@SCSS@SCSS US Equity
+991@Sempra Energy@SRE@SRE US Equity
+992@Semtech Corp.@SMTC@SMTC US Equity
+993@Shaw Group@SHAW@SHAW US Equity
+994@Sherwin-Williams Company@SHW@SHW US Equity
+995@SHFL entertainment@SHFL@SHFL US Equity
+996@Ship Finance Intl Ltd@SFL@SFL US Equity
+997@Shutterfly Inc.@SFLY@SFLY US Equity
+998@Siemens @SI@SI US Equity
+999@Sigma-Aldrich Corp.@SIAL@SIAL US Equity
+1000@Signature Bank@SBNY@SBNY US Equity
+1001@Silgan Holdings Inc.@SLGN@SLGN US Equity
+1002@Silicon Laboratories@SLAB@SLAB US Equity
+1003@Silicon Valley Bancshares@SIVB@SIVB US Equity
+1004@Silver Lake Management LLC@N/A@PEF1951 US Equity
+1005@Silver Wheaton@SLW@SLW US Equity
+1006@Simon Property Group Inc.@SPG@SPG US Equity
+1007@SimpleTech Inc.@STEC@STEC US Equity
+1008@Simpson Manufacturing Co.@SSD@SSD US Equity
+1009@Sinopec @#N/A@386 HK Equity
+1010@Sirona Dental Systems Inc.@SIRO@SIRO US Equity
+1011@SK Holdings @#N/A@003600 KS Equity
+1012@Skechers U.S.A. Inc.@SKX@SKX US Equity
+1013@Skyworks Solutions Inc.@SWKS@SWKS US Equity
+1014@Smith International Inc@SII@SII US Equity
+1015@Smithfield Foods Inc.@SFD@SFD US Equity
+1016@Smuckers @SJM@SJM US Equity
+1017@Snap-on Inc.@SNA@SNA US Equity
+1018@Snyders-Lance Inc.@LNCE@LNCE US Equity
+1019@Societe Generale @SCGLY@SCGLY US Equity
+1020@Sodexo Inc.@SDXAY@SDXAY US Equity
+1021@SolarWinds Inc.@SWI@SWI US Equity
+1022@Solazyme Inc.@SZYM@SZYM US Equity
+1023@Solera Holdings Inc@SLH@SLH US Equity
+1024@Solutia Inc.@SOA@SOA US Equity
+1025@Sonic Corp.@SONC@SONC US Equity
+1026@Sonoco Products Company@SON@SON US Equity
+1027@Sony @SNE@SNE US Equity
+1028@Sothebys Holdings Inc.@BID@BID US Equity
+1029@South Jersey Industries@SJI@SJI US Equity
+1030@Southern Company@SO@SO US Equity
+1031@Southwest@LUV@LUV US Equity
+1032@Southwest Gas Corp.@SWX@SWX US Equity
+1033@Sovran Self Storage Inc.@SSS@SSS US Equity
+1034@Spectra Energy Corp.@SE@SE US Equity
+1035@Spirit Airlines@SAVE@SAVE US Equity
+1036@Sprint Nextel@S@S US Equity
+1037@SPX Corp.@SPW@SPW US Equity
+1038@SRA International Inc.@SRX@SRX US Equity
+1039@St. Jude Medical Inc.@STJ@STJ US Equity
+1040@Staples Inc.@SPLS@SPLS US Equity
+1041@Starbucks@SBUX@SBUX US Equity
+1042@Starwood Hotels & Resorts@HOT@HOT US Equity
+1043@State Farm@#N/A@16547Z US Equity
+1044@State Grid @#N/A@CHSGCZ CH Equity
+1045@State Street Corp.@STT@STT US Equity
+1046@Statoil Hydro @STO@STO US Equity
+1047@Steelcase Inc.@SCS@SCS US Equity
+1048@Stericycle Inc.@SRCL@SRCL US Equity
+1049@STERIS Corp.@STE@STE US Equity
+1050@Steven Madden Ltd.@SHOO@SHOO US Equity
+1051@Stratasys Inc.@SSYS@SSYS US Equity
+1052@Strayer Education Inc.@STRA@STRA US Equity
+1053@Stryker Corp@SYK@SYK US Equity
+1054@Sucampo Pharmaceuticals Inc.@SCMP@SCMP US Equity
+1055@Suez @SZE@SZE FP Equity
+1056@Sun Communities Inc.@SUI@SUI US Equity
+1057@Sun Microsystems@JAVA@JAVA US Equity
+1058@Suncor Energy Inc.@SU@SU US Equity
+1059@SunEdison@SUNE@SUNE US Equity
+1060@SunPower@SPWRA@SPWR US Equity
+1061@Superior Energy Services Inc.@SPN@SPN US Equity
+1062@SUPERVALU Inc.@SVU@SVU US Equity
+1063@Swatch @SWGNF@SWGNF US Equity
+1064@Sybase Inc.@SY@SY US Equity
+1065@Sykes Enterprises Inc.@SYKE@SYKE US Equity
+1066@Symantec @SYMC@SYMC US Equity
+1067@Synaptics Inc.@SYNA@SYNA US Equity
+1068@Synchronoss Technologies Inc.@SNCR@SNCR US Equity
+1069@Synopsys Inc.@SNPS@SNPS US Equity
+1070@Synovus Financial@SNV@SNV US Equity
+1071@Syntel Inc.@SYNT@SYNT US Equity
+1072@Sysco Corp.@SYY@SYY US Equity
+1073@T. Rowe Price Group Inc.@TROW@TROW US Equity
+1074@Target@TGT@TGT US Equity
+1075@Taubman Centers Inc.@TCO@TCO US Equity
+1076@Tech Data@TECD@TECD US Equity
+1077@Techne Corp.@TECH@TECH US Equity
+1078@Teekay Corporation@TK@TK US Equity
+1079@Teledyne Technologies Inc.@TDY@TDY US Equity
+1080@Teleflex Inc.@TFX@TFX US Equity
+1081@Telefonica @TEF@TEF US Equity
+1082@Telephone & Data Systems@TDS@TDS US Equity
+1083@Tellabs Inc.@TLAB@TLAB US Equity
+1084@Tempur-Pedic International@TPX@TPX US Equity
+1085@Tennant Company@TNC@TNC US Equity
+1086@Teradata Corp.@TDC@TDC US Equity
+1087@Teradyne Inc.@TER@TER US Equity
+1088@Terex@TEX@TEX US Equity
+1089@Tesco @TSCDY@TESO US Equity
+1090@Tesla Motors@TSLA@TSLA US Equity
+1091@Tesoro@TSO@TSO US Equity
+1092@Tessera Techonologies Inc.@TSRA@TSRA US Equity
+1093@TEVA Pharmaceutical IND Ltd@TEVA@TEVA IT Equity
+1094@Texas Industries Inc.@TXI@TXI US Equity
+1095@Texas Instruments Inc.@TXN@TXN US Equity
+1096@Texas Roadhouse Inc.@TXRH@TXRH US Equity
+1097@Textron Inc.@TXT@TXT US Equity
+1098@TFS Financial Corporation@TFSL@TFSL US Equity
+1099@The Hain Celestial Group Inc.@HAIN@HAIN US Equity
+1100@The Stanley Black & Decker@SWK@SWK US Equity
+1101@The Travelers Cos. Inc.@TRV@TRV US Equity
+1102@Thermo Electron Corp.@#N/A@0009549D US Equity
+1103@Thermo Fisher Scientific@TMO@TMO US Equity
+1104@Thomas H Lee Partners LP@N/A@6612Z US Equity
+1105@Thomson Reuters Corp.@TRI@TRI US Equity
+1106@Thor Industries Inc.@THO@THO US Equity
+1107@ThyssenKrupp @TYEKF@TYEKF US Equity
+1108@Tiffany & Co.@TIF@TIF US Equity
+1109@Tim Hortons Inc@THI@THI US Equity
+1110@Timberland@TBL@TBL US Equity
+1111@Time Warner Cable Inc.@TWC@TWC US Equity
+1112@Time Warner Inc.@TWX@TWX US Equity
+1113@Timken Co.@TKR@TKR US Equity
+1114@TJX Companies Inc.@TJX@TJX US Equity
+1115@T-Mobile US Inc.@TMUS@TMUS US Equity
+1116@Toro Co.@TTC@TTC US Equity
+1117@Toronto-Dominion Bank@N/A@TD CN Equity
+1118@Toshiba @TOSBF@TOSBF US Equity
+1119@Tower Group@TWGP@TWGP US Equity
+1120@Toyota@TM@TM US Equity
+1121@Toysrus@TOYS@TOYS US Equity
+1122@TPG Capital@N/A@8818Z US Equity
+1123@Tractor Supply Company@TSCO@TSCO US Equity
+1124@Tradestation Group Inc.@TRAD@TRAD US Equity
+1125@Transdigm Group Inc.@TDG@TDG US Equity
+1126@Transocean Inc.@RIG@RIG US Equity
+1127@TreeHouse Foods Inc.@THS@THS US Equity
+1128@Trimble Navigation Limite@TRMB@TRMB US Equity
+1129@TriQuint Semiconductor@TQNT@TQNT US Equity
+1130@TRW Automotive Holdings Corp.@TRW@TRW US Equity
+1131@Tupperware Brands Corp@TUP@TUP US Equity
+1132@Tweeter @TWTRQ@TWTRQ US Equity
+1133@Tyco International Inc.@TYC@TYC US Equity
+1134@Tyson Foods Inc.@TSN@TSN US Equity
+1135@U.S. Bancorp@USB@USB US Equity
+1136@U.S. Postal Service @#N/A@6507Z US Equity
+1137@Ulta Salon Cosmetics & Fragrance@ULTA@ULTA US Equity
+1138@Ultimate Software Group@ULTI@ULTI US Equity
+1139@UMB Financial Corp.@UMBF@UMBF US Equity
+1140@Umpqua Holdings Corp.@UMPQ@UMPQ US Equity
+1141@Under Armour@UA@UA US Equity
+1142@UniFirst Corp.@UNF@UNF US Equity
+1143@Unilever@UL@UL US Equity
+1144@Union Pacific Corp.@UNP@UNP US Equity
+1145@Unisys Corp.@UIS@UIS US Equity
+1146@United Airlines@UAUA@UAUA US Equity
+1147@United Continental Holdings@UAL@UAL US Equity
+1148@United Natural FoodsInc.@UNFI@UNFI US Equity
+1149@United States Cellular Company@USM@USM US Equity
+1150@United Stationers Inc.@USTR@USTR US Equity
+1151@United Technologies@UTX@UTX US Equity
+1152@United Therapeutics Corp.@UTHR@UTHR US Equity
+1153@UnitedHealth Group @UNH@UNH US Equity
+1154@Universal Corp.@UVV@UVV US Equity
+1155@Universal Health Services@UHS@UHS US Equity
+1156@Unum Group@UNM@UNM US Equity
+1157@UPS@UPS@UPS US Equity
+1158@Urban Outfitters Inc.@URBN@URBN US Equity
+1159@URS Corp.@URS@URS US Equity
+1160@USG Corp.@USG@USG US Equity
+1161@V.F. Corp.@VFC@VFC US Equity
+1162@Valassis Communications@VCI@VCI US Equity
+1163@Valero Energy Corp.@VLO@VLO US Equity
+1164@Varian Medical Systems Inc.@VAR@VAR US Equity
+1165@Vasco Data Security Inc.@VDSI@VDSI US Equity
+1166@Vector Group Ltd.@VGR@VGR US Equity
+1167@Veeco Instruments Inc.@VECO@VECO US Equity
+1168@Ventas Inc.@VTR@VTR US Equity
+1169@Ventiv Health Inc.@VTIV@VTIV US Equity
+1170@Vera Bradley Inc.@VRA@VRA US Equity
+1171@VeriSign Inc.@VRSN@VRSN US Equity
+1172@Verisk Analytics@VRSK@VRSK US Equity
+1173@Verizon@VZ@VZ US Equity
+1174@Vertex Pharmaceuticals@VRTX@VRTX US Equity
+1175@Vestar Cap Partners @N/A@PEF1821 US Equity
+1176@Virgin Media Inc.@VMED@VMED US Equity
+1177@ViroPharma Inc.@VPHM@VPHM US Equity
+1178@Visa@V@V US Equity
+1179@Vishay Intertechnology@VSH@VSH US Equity
+1180@VistaPrint N.V.@VPRT@VPRT US Equity
+1181@Visteon Corp.@VC@VC US Equity
+1182@Vitamin Shoppe@VSI@VSI US Equity
+1183@Vmware Inc.@VMW@VMW US Equity
+1184@Vocus Inc@VOCS@VOCS US Equity
+1185@Vodafone @VOD@VOD US Equity
+1186@Volcom Inc.@VLCM@VLCM US Equity
+1187@Volkswagen @VLKAY@VLKAY US Equity
+1188@Vornado Realty Trust@VNO@VNO US Equity
+1189@Vulcan Materials Company@VMC@VMC US Equity
+1190@W.P.Carey & Co.@WPC@WPC US Equity
+1191@W.W. Grainger Inc.@GWW@GWW US Equity
+1192@WAbco Holdings Inc.@WBC@WBC US Equity
+1193@Wabtec Corp.@WAB@WAB US Equity
+1194@Waddell & Reed Financial@WDR@WDR US Equity
+1195@Walgreen@WAG@WAG US Equity
+1196@Wal-Mart Stores  @WMT@WMT US Equity
+1197@Walt Disney Company@DIS@DIS US Equity
+1198@Warburg Pincus LLC@N/A@PEF1828 US Equity
+1199@Warnaco Group Inc.@WRC@WRC US Equity
+1200@Warner Music Group Corp.@WMG@WMG US Equity
+1201@Waste Connections Inc.@WCN@WCN US Equity
+1202@Waste Management @WM@WM US Equity
+1203@Waters Corp.@WAT@WAT US Equity
+1204@Watson Pharmaceuticals@WPI@WPI US Equity
+1205@WebMD Health Corp@WBMD@WBMD US Equity
+1206@Weight Watchers International@WTW@WTW US Equity
+1207@Weis Markets Inc.@WMK@WMK US Equity
+1208@WellCare Health Plans Inc@WCG@WCG US Equity
+1209@Wellpoint@WLP@WLP US Equity
+1210@Wells Fargo@WFC@WFC US Equity
+1211@Wendys International@WEN@WEN US Equity
+1212@Werner Enterprises Inc.@WERN@WERN US Equity
+1213@WESCO International Inc.@WCC@WCC US Equity
+1214@West Pharmaceutical Services Inc.@WST@WST US Equity
+1215@Westamerica Bancorporation@WABC@WABC US Equity
+1216@Western Digital Corp.@WDC@WDC US Equity
+1217@Western Refining Inc.@WNR@WNR US Equity
+1218@Western Union Co.@WU@WU US Equity
+1219@Westlake Chemical Corporation@WLK@WLK US Equity
+1220@Westpac Banking Corp. (ADR)@WBK@WBK US Equity
+1221@WEX INC@WEX@WEX US Equity
+1222@Weyerhaeuser Company@WY@WY US Equity
+1223@WGL Holdings Inc.@WGL@WGL US Equity
+1224@Whirlpool Corp.@WHR@WHR US Equity
+1225@WhiteWave Foods@WWAV@WWAV US Equity
+1226@Whole Foods@WFM@WFM US Equity
+1227@Wiley John & Sons Inc.@JW/A@JW/A US Equity
+1228@Williams-Sonoma Inc.@WSM@WSM US Equity
+1229@Windstream Communications@WIN@WIN US Equity
+1230@Wisconsin Energy Corp.@WEC@WEC US Equity
+1231@WMS Industries Inc.@WMS@WMS US Equity
+1232@Wolverine World Wide Inc.@WWW@WWW US Equity
+1233@World Fuel Services Corp.@INT@INT US Equity
+1234@World Wrestling Entertainment@WWE@WWE US Equity
+1235@Wright Express Corp@WXS@WXS US Equity
+1236@Wyeth@WYE@WYE US Equity
+1237@Wyndham International @WYN@WYN US Equity
+1238@Xcel Energy Inc.@XEL@XEL US Equity
+1239@Xerox Corp@XRX@XRX US Equity
+1240@Xilinx Inc.@XLNX@XLNX US Equity
+1241@XTO Energy Inc.@XTO@XTO US Equity
+1242@Yahoo! Inc.@YHOO@YHOO US Equity
+1243@Yum! Brands Inc.@YUM@YUM US Equity
+1244@Zebra Technologies Corp.@ZBRA@ZBRA US Equity
+1245@Zimmer Holdings Inc.@ZMH@ZMH US Equity
+1246@Zumiez Inc.@ZUMZ@ZUMZ US Equity
