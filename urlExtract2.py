@@ -23,5 +23,6 @@ if __name__ == "__main__":
         ### Parse and find
         ### Looks like google contains URLs in <cite> tags.
         ### So for each cite tag on each page (10), print its contents (url)
+
         for cite in soup.findAll('cite'):
             print cite.text
