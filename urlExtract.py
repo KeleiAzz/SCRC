@@ -9,12 +9,37 @@ seachstr2 = 'apple supplier'
 seachstr3 = 'apple supplier labor'
 
 companyList = ['apple']
-keyword = ['sustainability', 'supplier', 'Supplier code of conduct',
-            'Supplier expectation',
-            'Vendor code of conduct',
-            'Vendor expectation',
-            'Supplier guideline',]
-date = '2012..2014'
+# keyword = ['supplier', 'Supplier code of conduct', 'Supplier expectation', 'Vendor code of conduct',
+           # 'Vendor expectation', 'Supplier guideline']
+
+keyword = ['Ariba',
+           'buying channel',
+           'Category Management',
+           'Contract Management',
+           'cross-functional team',
+           'Diversity',
+           'ERP',
+           'Health Safety Security Environment',
+           'Offshore Supplier',
+           'procurement allocation',
+           'Risk management',
+           'Service Level Agreement',
+           'Sourcing Process',
+           'Strategic Sourcing',
+           'Supplier assessment',
+           'Supplier collaboration',
+           'Supplier development plan',
+           'Supplier feedback mechanism',
+           'Supplier list',
+           'Supplier Meeting',
+           'Supplier portal',
+           'Supplier scorecard',
+           'Supplier segmentation',
+           'Supplier selection',
+           'Supplier suggestion',
+           'Supply market',
+           'Vendor list']
+date = '2013..2014'
 
 # urlextract = ox.Workbook()
 # sheet = urlextract.create_sheet(0, 'sheet1')
@@ -44,27 +69,35 @@ for company in companyList:
             else:
                 for minfo in infoaaa:
                     if minfo['url'][4] == 's':
-                        url = minfo['url'][8:-1]
+                        url = minfo['url'][8:]
                     else:
-                        url = minfo['url'][7:-1]
-                    if url not in all_URL:
-                        print url
-                        file.write(url+'\n')
-                        # sheet.cell(row=Row, column=1).value = company
-                        # sheet.cell(row=Row, column=2).value = key
-                        # sheet.cell(row=Row, column=3).value = minfo['url']
-                        # Row += 1
-                        all_URL.append(url)
-                        count.append(1)
-                    else:
-                        count[all_URL.index(url)] += 1
+                        url = minfo['url'][7:]
+                    if url.find('wikipedia.org') < 0:
+                        if url not in all_URL:
+                            print url
+                            file.write(url+'\n')
+                            # sheet.cell(row=Row, column=1).value = company
+                            # sheet.cell(row=Row, column=2).value = key
+                            # sheet.cell(row=Row, column=3).value = minfo['url']
+                            # Row += 1
+                            all_URL.append(url)
+                            count.append(1)
+                        else:
+                            count[all_URL.index(url)] += 1
                 res = {}
                 for i in range(len(count)):
                     if count[i] in res.keys():
-                        res.get(count[i]).append(all_URL[i])
+                        res[count[i]].append(all_URL[i])
                     else:
                         res[count[i]] = [all_URL[i]]
 
+def write_to_txt(res):
+    file = open('res_fq', 'w')
+    for i in res.keys():
+        file.write('URLs appear %d times \n' % i)
+        for url in res[i]:
+            file.write('  ' + url + '\n')
 
+    file.close()
 file.close()
 # urlextract.save('urlextract.xlsx')
