@@ -8,7 +8,8 @@ import openpyxl as ox
 seachstr2 = 'apple supplier'
 seachstr3 = 'apple supplier labor'
 
-companyList = ['apple']
+# companyList = ['apple', 'nike', 'ibm', 'general mills', 'electronic arts']
+companyList = ['general mills']
 # keyword = ['supplier', 'Supplier code of conduct', 'Supplier expectation', 'Vendor code of conduct',
            # 'Vendor expectation', 'Supplier guideline']
 
@@ -39,24 +40,43 @@ keyword = ['Ariba',
            'Supplier suggestion',
            'Supply market',
            'Vendor list']
+
 date = '2013..2014'
 
-# urlextract = ox.Workbook()
-# sheet = urlextract.create_sheet(0, 'sheet1')
+# def write_to_exl(res, urlextract):
+#     # urlextract = ox.Workbook()
+#     sheet = urlextract.create_sheet(0, 'sheet1')
+#     f = res.keys()
+#     Row = 1
+#     for i in f:
+#         sheet.cell(row=Row, column=1).value = ('URLs with frequency = %d' % i)
+#         Row += 1
+#         for url in res[i]:
+#             sheet.cell(row=Row, column=1).value = url
+#             Row += 1
+#     urlextract.save('url_frequency.xlsx')
 
-all_URL = []
-count = []
+
+
+
+
 file=open('result.txt', 'w')
-Row = 1
+# Row = 1
+sheet_no = 0
 for company in companyList:
+    urlextract = ox.Workbook()
+    all_URL = []
+    count = []
+    sheet = urlextract.create_sheet(sheet_no, company)
+    sheet_no += 1
     for key in keyword:
         searchstr = company + ' ' + key + ' ' + date
-        for x in xrange(2):
+        for x in xrange(1):
             print "page:%s" % (x+1)
-            page = x*10  # page = x
+            page = x*9  # page = x
 
             url = ('https://ajax.googleapis.com/ajax/services/search/web'
-                   '?v=1.0&q=%s&rsz=8&start=%s') % (urllib.quote(searchstr), page)
+                   '?v=2.0&q=%s&rsz=8&start=%s') % (urllib.quote(searchstr), page)
             try:
                 request = urllib2.Request(url, None, {'Referer': 'http://www.google.com'})
                 response = urllib2.urlopen(request)
@@ -72,7 +92,7 @@ for company in companyList:
                         url = minfo['url'][8:]
                     else:
                         url = minfo['url'][7:]
-                    if url.find('wikipedia.org') < 0:
+                    if url.find('wikipedia.org') < 0 and url.find('linkedin.com') < 0:
                         if url not in all_URL:
                             print url
                             file.write(url+'\n')
@@ -84,12 +104,24 @@ for company in companyList:
                             count.append(1)
                         else:
                             count[all_URL.index(url)] += 1
-                res = {}
-                for i in range(len(count)):
-                    if count[i] in res.keys():
-                        res[count[i]].append(all_URL[i])
-                    else:
-                        res[count[i]] = [all_URL[i]]
+    res = {}
+    for i in range(len(count)):
+        if count[i] in res.keys():
+            res[count[i]].append(all_URL[i])
+        else:
+            res[count[i]] = [all_URL[i]]
+    f = res.keys()
+    Row = 1
+    for i in f:
+        sheet.cell(row=Row, column=1).value = ('URLs with frequency = %d' % i)
+        Row += 1
+        for url in res[i]:
+            # sheet.cell(row=Row, column=1).value = company
+            sheet.cell(row=Row, column=2).value = url
+            Row += 1
+
+    urlextract.save('url_%s.xlsx' % company)
+print 'Program finished'
 
 def write_to_txt(res):
     file = open('res_fq', 'w')
